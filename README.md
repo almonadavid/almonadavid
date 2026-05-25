@@ -12,7 +12,7 @@ Recent Centre College grad (BSc Economics, Data Science minor) and former track 
 
 I enjoy working on data science and analytical problems, with interest in sports analytics. My main sports are track and field and soccer, still getting comfortable with basketball and football on the analytics side. Tottenham Hotspur fan. #COYS
 
-Currently working on improving my Python, modeling, and ML skills and keeping up with where the data science field is heading.
+Currently working on improving my Python, modeling, and ML skills and keeping up with how the data science field is evolving.
 
 Open to collaborating on projects and hackathons.
 
